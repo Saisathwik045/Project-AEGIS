@@ -1,0 +1,23 @@
+# Visual Studio
+.vs/
+*.VC.db
+*.VC.opendb
+
+# Unreal Engine
+**/Binaries/
+**/DerivedDataCache/
+**/Intermediate/
+**/Saved/
+
+# VS Code
+.vscode/
+
+# Rider
+.idea/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
